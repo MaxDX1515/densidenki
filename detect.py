@@ -115,7 +115,7 @@ def run(model: str, camera_id: int, width: int, height: int, num_threads: int,
 		led26.off()
 	    else:
 		led26.on()
-		led19.off()
+		led19.on()
               
 
          else:
